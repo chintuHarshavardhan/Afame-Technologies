@@ -1,4 +1,4 @@
-This repository contains the code and data for the projects completed during my internship at Afame Technologies. The projects include analysis and visualization of sales data as well as HR data.
+This collection holds the code and datasets used for projects I tackled during my Afame Technologies internship. These projects involved analyzing and visualizing sales and HR data.
 
 Projects
 
